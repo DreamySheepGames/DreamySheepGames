@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.redd.it/ddnm7kmznqd71.gif" alt="MasterHead" width="800" height="400">
+  <img src="https://cdn.lospec.com/gallery/timeless-544198.gif" alt="MasterHead" width="800" height="400">
 </div>
 
 <h1 align="center">D/D Dreamy Sheep</h1>
