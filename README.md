@@ -4,7 +4,7 @@
 
 <h1 align="center">D/D Dreamy Sheep</h1>
 <h3 align="center">ATK/1 DEF/1</h3>
-<h3 align="center">______________________________________________________________________________________________________</h3>
+<h3 align="center">______________________________________________________________________________________________________________</h3>
 <img align="right" alt="Coding" src="https://i.giphy.com/S3thLnRWEpRwq6iDIO.webp">
 
 <h3 align="left">Connect with me:</h3>
