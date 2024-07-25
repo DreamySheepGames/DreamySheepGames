@@ -1,9 +1,31 @@
+<h1 align="left"> D/D/D Dreamy Sheep
+<img align="right" alt="Rank" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/Atribute_LIGHT.png" width="37" height="37">
+</h1>
+
+<div style="display: inline-block; vertical-align: middle; margin-left: 20px;" align="left">
+    <img alt="Rank" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/yugiohRank.png" width="37" height="37">
+    <img alt="Rank" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/yugiohRank.png" width="37" height="37">
+    <img alt="Rank" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/yugiohRank.png" width="37" height="37">
+    <img alt="Rank" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/yugiohRank.png" width="37" height="37">
+    <img alt="Rank" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/yugiohRank.png" width="37" height="37">
+</div>
+  
 <div align="center">
   <img src="https://cdn.lospec.com/gallery/timeless-544198.gif" alt="MasterHead" width="800" height="400">
 </div>
 
-<h1 align="center">D/D Dreamy Sheep</h1>
-<h3 align="center">ATK/1 &nbsp;&nbsp;&nbsp;&nbsp; DEF/1</h3>
+<h3 align="left">[FIEND/XYZ/EFFECT]</h3>
+<p>5 Level 5 monsters</p>
+<p>You can also Xyz Summon this card by using a Rank 4 "D/D/D" Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.)</p>
+
+<div style="max-width: 100px; margin: auto;">
+  <p>A passionate game developer specializing in creating immersive and engaging experiences using Unity. With a keen eye for detail and a love for innovation, strives to push the boundaries of interactive entertainment.</p>
+</div>
+
+<h3 align="right">
+  [ ATK/1 &nbsp;&nbsp;&nbsp;&nbsp; DEF/1 ]
+</h3>
+
 <h3 align="center">______________________________________________________________________________________________________</h3>
 <img align="right" alt="Coding" src="https://i.giphy.com/S3thLnRWEpRwq6iDIO.webp" width="370" height="370">
 
