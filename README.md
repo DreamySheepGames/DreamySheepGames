@@ -27,7 +27,7 @@
 </h3>
 
 <h3 align="center">______________________________________________________________________________________________________</h3>
-<img align="right" alt="Coding" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/computer.gif" width="600" height="370">
+<img align="right" alt="Coding" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/computer.gif" width="550" height="370">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
