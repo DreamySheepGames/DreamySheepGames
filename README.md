@@ -59,7 +59,7 @@
 <hr/>
 
 <div align="center">
-  <h2>D.🐏 Contributions 🐍</h2>
+  <h2>D.🐏's Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dreamysheepgames/dreamysheepgames/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
