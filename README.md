@@ -58,12 +58,6 @@
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
-<div align="center">
-  <h2>D.🐏's Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dreamysheepgames/dreamysheepgames/output/github-contribution-grid-snake-dark.svg" />
-  <br/>
-</div>
-
 
 
 
