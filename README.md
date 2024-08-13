@@ -48,7 +48,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=unity,cs,github,js,haxeflixel,py" />
+<img src="https://skillicons.dev/icons?i=unity,cs,github,js,py" />
 
 <div>
 <img align="right" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dreamysheepgames&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
