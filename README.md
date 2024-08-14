@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" alt="_dreamysheep_" height="30" width="40" />
 </a>
 
-<img align="right" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dreamysheepgames&count_private=false&theme=react&border_radius=10" alt="streak stats"/>
+<img align="right" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dreamysheepgames&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 </p>
 
@@ -51,7 +51,7 @@
 <img src="https://skillicons.dev/icons?i=unity,cs,github,js,py" />
 
 <div>
-<img align="right" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dreamysheepgames&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+<img align="right" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dreamysheepgames&count_private=true&show_icons=true&theme=react&border_radius=10&&include_all_commits=true" alt="readme stats" />
 
 <img align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dreamysheepgames&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="dreamysheepgames" />
 
