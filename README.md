@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/BannerItchIo.png" />
+
 <h1 align="left"> D/D/D Dreamy Sheep
 <img align="right" alt="Rank" src="https://github.com/DreamySheepGames/DreamySheepGames/blob/main/assets/images/Atribute_LIGHT.png" width="37" height="37">
 </h1>
