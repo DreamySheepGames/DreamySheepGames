@@ -32,31 +32,34 @@
 </h3>
 <hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
 
-<a href="mailto:honguyenhailong20@gmail.com">
-    <img align="left" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-
+<p align="center">
 <a href="https://twitter.com/_dreamysheep_" target="blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="_dreamysheep_" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="_dreamysheep_" height="30" width="40" />
 </a>
-
-<img align="right" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dreamysheepgames&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
+    
+<a href="mailto:honguyenhailong20@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
 </p>
 
+<h3 align="left"> 
+    Languages and Tools:
+    <img align="right" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dreamysheepgames&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</h3>
+<img align="left" src="https://skillicons.dev/icons?i=unity,cs,github,js,ts,py" />
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=unity,cs,github,js,py" />
 
-<div>
-<img align="right" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dreamysheepgames&show_icons=true&theme=react&border_radius=10&&include_all_commits=true" alt="readme stats" />
-
+<br/><br/><br/><br/>
+<p>
 <img align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dreamysheepgames&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&count_private=true" alt="dreamysheepgames" />
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
+<img align="right" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dreamysheepgames&show_icons=true&theme=react&border_radius=10&&include_all_commits=true" alt="readme stats" />
+<p/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <div align="center">
