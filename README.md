@@ -35,13 +35,8 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://twitter.com/_dreamysheep_" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="_dreamysheep_" height="30" width="40" />
-</a>
-    
-<a href="mailto:honguyenhailong20@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
+<a href="mailto:honguyenhailong20@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a>
+<a href="https://twitter.com/_dreamysheep_" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="_dreamysheep_" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left"> 
