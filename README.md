@@ -39,24 +39,24 @@
 <a href="https://twitter.com/_dreamysheep_" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="_dreamysheep_" height="30" width="40" /> </a>
 </p>
 
-<h3 align="left"> 
-    Languages and Tools:
-    <img align="right" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dreamysheepgames&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</h3>
-<img align="left" src="https://skillicons.dev/icons?i=unity,cs,github,js,ts,py" />
+<h3 align="center"> Languages and Tools: </h3>
+<p align="center">
+<img align="center" src="https://skillicons.dev/icons?i=unity,cs,github,js,ts,py" />
+</p>
+<br/>
 
+<p align="center">
+<img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dreamysheepgames&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&count_private=true" alt="dreamysheepgames" />
+</p>
+<br/>
 
-<br/><br/><br/><br/>
-<p>
-<img align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dreamysheepgames&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&count_private=true" alt="dreamysheepgames" />
+<p align="center">
+<img align="left" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dreamysheepgames&show_icons=true&theme=react&border_radius=10&&include_all_commits=true" alt="readme stats" />
+<img align="right" width=390 height=175 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dreamysheepgames&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</p>
 
 <br/>
-<img align="right" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dreamysheepgames&show_icons=true&theme=react&border_radius=10&&include_all_commits=true" alt="readme stats" />
-<p/>
-
-<br/><br/><br/><br/><br/><br/><br/>
 <hr/>
-
 <div align="center">
   <h2>D.🐏's Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dreamysheepgames/dreamysheepgames/output/github-contribution-grid-snake-dark.svg" />
