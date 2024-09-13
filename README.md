@@ -52,7 +52,7 @@
 
 <p align="center">
 <img align="left" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dreamysheepgames&show_icons=true&theme=react&border_radius=10&&include_all_commits=true" alt="readme stats" />
-<img align="right" width=390 height=175 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dreamysheepgames&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img align="right" width=390 height=170 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dreamysheepgames&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/>
